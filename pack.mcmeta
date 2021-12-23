@@ -1,6 +1,13 @@
 {
-   "pack": {
-      "pack_format": 8,
-      "description": "Dark GUI"
-   }
+	"pack": {
+		"pack_format": 8,
+		"description": "Dark GUI"
+	},
+	"language": {
+		"en_2am": {
+			"name":"2am",
+			"region":"Space",
+			"bidirectional":false
+		}
+	}
 }
