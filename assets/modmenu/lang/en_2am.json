@@ -2,7 +2,7 @@
   "modmenu.title": "§5Mods",
   "modmenu.badge.library": "§2Library",
   "modmenu.badge.clientsideOnly": "§9Client",
-  "modmenu.badge.deprecated": "§8Deprecated",
+  "modmenu.badge.deprecated": "§4Deprecated",
   "modmenu.badge.minecraft": "§7Minecraft",
   "modmenu.website": "§5Website",
   "modmenu.issues": "§5Issues",

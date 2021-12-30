@@ -294,7 +294,6 @@
   "selectServer.edit": "§5Edit",
   "selectServer.delete": "§5Delete",
   "selectServer.add": "§5Add Server",
-  "selectServer.defaultName": "§5Minecraft Server",
   "selectServer.deleteQuestion": "§5Are you sure you want to remove this server?",
   "selectServer.deleteWarning": "§5'%s' will be lost forever! (A long time!)",
   "selectServer.deleteButton": "§5Delete",
